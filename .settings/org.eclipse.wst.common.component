@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="SimpleTwitterTeam">
+    <wb-module deploy-name="SimpleTwitterTeamA">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="java-output-path" value="/SimpleTwitterTeam/build/classes"/>
-        <property name="context-root" value="SimpleTwitterTeam"/>
+        <property name="java-output-path" value="/SimpleTwitterTeamA/build/classes"/>
+        <property name="context-root" value="SimpleTwitterTeamA"/>
     </wb-module>
 </project-modules>
